@@ -1,6 +1,6 @@
 💰 Customer Analysis – Sales Dashboard
 
-![Dashboard](./dashboard.png(2))
+![Dashboard](./dashboard.png)
 
 📌 Project Overview
 
